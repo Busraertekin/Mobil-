@@ -14,7 +14,7 @@
   - Kullanıcı bilgileri sayfasına gider giriş yapan kullanıcının verdiği bilgilerini tablo şeklinde listeler.
 #### Admin Ekranı
   - Sadece admine gösterilir. Tüm kullanıcılar burada listelenir.
-#### Oda Seçimi Ekranı
+#### Oda Seçimi Ekranı/ Rezervasyon
   -Oda Stili Seçilir. 
   Seçilen stilde olan odalar sıralanır. Ücretine ve müsaitlik tarihine göre rezerve edilir. Sayfada güncellenir ve tekrar aynı oda aynı tarihte alınamaz.
 ### Proje Süreci:
