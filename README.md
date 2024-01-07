@@ -15,7 +15,7 @@
 #### Admin Ekranı
   - Sadece admine gösterilir. Tüm kullanıcılar burada listelenir.
 #### Oda Seçimi Ekranı/ Rezervasyon
-  -Oda Stili Seçilir. 
+  - Oda Stili Seçilir. 
   Seçilen stilde olan odalar sıralanır. Ücretine ve müsaitlik tarihine göre rezerve edilir. Sayfada güncellenir ve tekrar aynı oda aynı tarihte alınamaz.
 ### Proje Süreci:
   - Projenin amacı belirlendi.
@@ -23,4 +23,4 @@
   - Sayfaları Navigationla bağlandı.
   - FireBase'e bağlanıldı. Veri tabanı oluşturuldu.
   - İstenilen özellikleri tamamladık.
-  -Frontend kısmı yazıldı. 
+  - Frontend kısmı yazıldı. 
